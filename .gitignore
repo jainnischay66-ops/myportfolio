@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+*.log
+previous_sound_effects_backup.js
